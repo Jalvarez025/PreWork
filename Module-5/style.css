@@ -1,0 +1,25 @@
+h1 {text-align:center}
+
+#red{color:red}
+
+#blue{color:blue}
+
+#green{color:MediumSeaGreen}
+
+#big{font-size:40px}
+
+#tiny{font-size:10px}
+
+#center{text-align:center}
+
+#bold{font-weight:bold}
+
+#font{font-family: "Courier New", Courier, monospace}
+
+#combo{
+    font-size:30px;
+    color:orange;
+    font-weight:bold;
+}
+
+.styledFont{color:rgb(7, 212, 7)}
